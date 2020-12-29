@@ -1,7 +1,7 @@
 # acme-front
 
-Para iniciar
-### `npm start` 
+API feita com React 17.0.1
 
-URL:
-[http://localhost:3000](http://localhost:3000)
+Para iniciar ### `npm start` 
+
+URL: [http://localhost:3000](http://localhost:3000)
