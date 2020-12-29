@@ -1,0 +1,12 @@
+form {
+  margin-bottom: 25px;
+}
+
+li {
+  list-style: none;
+  margin-bottom: 25px;
+}
+
+.btn-danger {
+  margin-left: 5px;
+}
