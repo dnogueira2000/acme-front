@@ -116,19 +116,19 @@ export default class Lista extends React.Component {
           
           <div className="form-group">
            <label>Item 1: </label><br/>
-           <input className="form-control" type="text" name="item1" value={this.state.item1} 
+           <input required className="form-control" type="text" name="item1" value={this.state.item1} 
             onChange={this.handleChange}/>
           </div>
          
           <div className="form-group">
             <label>Item 2: </label><br/>
-            <input className="form-control" type="text" name="item2" value={this.state.item2} 
+            <input required className="form-control" type="text" name="item2" value={this.state.item2} 
               onChange={this.handleChange}/>
           </div>
 
           <div className="form-group">
             <label>Item 3: </label><br/>
-            <input className="form-control" type="text" name="item3" value={this.state.item3} 
+            <input required className="form-control" type="text" name="item3" value={this.state.item3} 
               onChange={this.handleChange}/>
           </div>
           
